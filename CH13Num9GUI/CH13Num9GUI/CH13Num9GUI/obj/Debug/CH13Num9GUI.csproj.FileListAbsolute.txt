@@ -1,0 +1,10 @@
+C:\Users\kc-ro\source\repos\CH13Num9GUI\CH13Num9GUI\bin\Debug\CH13Num9GUI.exe.config
+C:\Users\kc-ro\source\repos\CH13Num9GUI\CH13Num9GUI\bin\Debug\CH13Num9GUI.exe
+C:\Users\kc-ro\source\repos\CH13Num9GUI\CH13Num9GUI\bin\Debug\CH13Num9GUI.pdb
+C:\Users\kc-ro\source\repos\CH13Num9GUI\CH13Num9GUI\obj\Debug\CH13Num9GUI.csprojAssemblyReference.cache
+C:\Users\kc-ro\source\repos\CH13Num9GUI\CH13Num9GUI\obj\Debug\CH13Num9GUI.PayCalc.resources
+C:\Users\kc-ro\source\repos\CH13Num9GUI\CH13Num9GUI\obj\Debug\CH13Num9GUI.Properties.Resources.resources
+C:\Users\kc-ro\source\repos\CH13Num9GUI\CH13Num9GUI\obj\Debug\CH13Num9GUI.csproj.GenerateResource.cache
+C:\Users\kc-ro\source\repos\CH13Num9GUI\CH13Num9GUI\obj\Debug\CH13Num9GUI.csproj.CoreCompileInputs.cache
+C:\Users\kc-ro\source\repos\CH13Num9GUI\CH13Num9GUI\obj\Debug\CH13Num9GUI.exe
+C:\Users\kc-ro\source\repos\CH13Num9GUI\CH13Num9GUI\obj\Debug\CH13Num9GUI.pdb
